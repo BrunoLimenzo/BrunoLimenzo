@@ -18,13 +18,13 @@
   ##
 
   <div>
-    <a href="brunolimenzo0@gmail.com"> 
+    <a href="brunolimenzo0@gmail.com" target="_blank"> 
       <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
     </a>
-    <a href="https://www.linkedin.com/in/bruno-limenzo-0a2224230/"> 
+    <a href="https://www.linkedin.com/in/bruno-limenzo-0a2224230/" target="_blank"> 
        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://brunolimenzo.itch.io/">
+    <a href="https://brunolimenzo.itch.io/" target="_blank">
        <img alt="itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
     </a>
   </div>
