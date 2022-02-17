@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**BrunoLimenzo/BrunoLimenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/BrunoLimenzo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoLimenzo&counts_private=true&show_icons=true&theme=dark">
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLimenzo&theme=dark">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
