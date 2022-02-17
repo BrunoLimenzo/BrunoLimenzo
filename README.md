@@ -14,3 +14,17 @@
   <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="CsharpIcon" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
+  
+  ##
+
+  <div>
+    <a href="brunolimenzo0@gmail.com"> 
+      <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.linkedin.com/in/bruno-limenzo-0a2224230/"> 
+       <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://brunolimenzo.itch.io/">
+       <img alt="itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
+    </a>
+  </div>
