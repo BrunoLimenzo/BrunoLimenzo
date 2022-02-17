@@ -18,7 +18,7 @@
   ##
 
   <div>
-    <a href="brunolimenzo0@gmail.com" target="_blank"> 
+    <a href="mailto:brunolimenzo0@gmail.com" target="_blank"> 
       <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
     </a>
     <a href="https://www.linkedin.com/in/bruno-limenzo-0a2224230/" target="_blank"> 
