@@ -27,5 +27,5 @@
     <a href="https://brunolimenzo.itch.io/" target="_blank">
        <img alt="itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
     </a>
-    <img align="right" height="80px" width="80px" alt="baby yoda" src="https://media.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.gif">
+    <img align="right" height="100px" width="100px" alt="baby yoda" src="https://media.giphy.com/media/l46Cefl6ci2zgWYYU/giphy.gif">
   </div>
