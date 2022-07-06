@@ -2,7 +2,7 @@
 
 <div>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoLimenzo&counts_private=true&show_icons=true&theme=tokyonight">
-  <img align="center" height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLimenzo&theme=tokyonight">
+  <img align="center" height ="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLimenzo&theme=tokyonight&layout=compact">
 </div>
 
   ###
@@ -29,5 +29,5 @@
     <a href="https://brunolimenzo.itch.io/" target="_blank">
        <img alt="itch.io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
     </a>
-    <img align="right" height="100px" width="100px" alt="baby yoda" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif">
+    
   </div>
